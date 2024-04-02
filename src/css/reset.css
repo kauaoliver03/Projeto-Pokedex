@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* tira as configurações padrões da lista*/
+ul {
+    list-style-type: none;
+}
